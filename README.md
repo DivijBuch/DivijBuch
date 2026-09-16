@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @DivijBuch
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on nothing yet
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on nothing 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: There is nothing fun about me
+- ⚡ Fun fact: Nothing
 
 <!---
 DivijBuch/DivijBuch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
